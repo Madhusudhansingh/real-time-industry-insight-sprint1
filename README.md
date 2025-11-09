@@ -84,6 +84,7 @@ You can open it in Google Colab and run everything end-to-end.
 ---
 
 ## ✅ Repository Structure
+
 real-time-industry-insight-sprint1/
 │
 ├── data/
